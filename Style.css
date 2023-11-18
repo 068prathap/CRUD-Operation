@@ -1,0 +1,20 @@
+.page
+{
+    max-width: 2000px;
+}
+.formHeadingPlusIcon::before, .submitButtonIcon::before
+{
+    font-weight: bold !important;
+}
+.submitButton, .updateButton
+{
+    height: 38px;
+}
+.avatar
+{
+    width: 40px;
+}
+.actionButton
+{
+    width: 50px;
+}
